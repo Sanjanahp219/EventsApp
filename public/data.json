@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "title": "Concert",
+    "description": "Live concert event.",
+    "category": "Music",
+    "date": "2024-11-10",
+    "availableSeats": 100,
+    "price": 50
+  },
+  {
+    "id": 2,
+    "title": "Art Exhibition",
+    "description": "Artworks from local artists.",
+    "category": "Art",
+    "date": "2024-11-12",
+    "availableSeats": 50,
+    "price": 30
+  },
+  {
+    "id": 3,
+    "title": "Tech Conference",
+    "description": "Networking and learning in tech.",
+    "category": "Technology",
+    "date": "2024-11-15",
+    "availableSeats": 0,
+    "price": 100
+  },
+  {
+    "id": 4,
+    "title": "Cooking Class",
+    "description": "Learn to cook Italian dishes.",
+    "category": "Food",
+    "date": "2024-11-20",
+    "availableSeats": 25,
+    "price": 40
+  },
+  {
+    "id": 5,
+    "title": "Yoga Retreat",
+    "description": "Relax and rejuvenate.",
+    "category": "Health",
+    "date": "2024-11-25",
+    "availableSeats": 10,
+    "price": 70
+  }
+]
